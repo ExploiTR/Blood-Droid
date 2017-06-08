@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Blood Droid</string>
+    <string name="action_about">About : All</string>
+    <string name="father_blood_type">Father Blood Group :</string>
+    <string name="mother_blood_type">Mother blood Group : </string>
+    <string name="rh">RH +</string>
+    <string name="child_blood_type_text">Child Blood Type :</string>
+    <string name="type_a_chance_text">Type \'A\'  Chance :</string>
+    <string name="type_b_chance_text">Type \'B\'  Chance :</string>
+    <string name="type_ab_chance_text">Type \'AB\' Chance :</string>
+    <string name="type_o_chance_text">Type \'O\'  Chance :</string>
+    <string name="rh_factor_text">RHESUS FACTOR  :</string>
+    <string name="parental_blood_type_attributes">Parental Blood Type Attributes :</string>
+    <string name="dummytext">dummytext</string>
+</resources>
